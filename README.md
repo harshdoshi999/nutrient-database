@@ -20,7 +20,7 @@ i. FoodReport
 
 ```js
 
-var ndb = require('./index');
+var ndb = require('nutrient-database');
 
 // Parameters:
 // 1. ndb no
@@ -35,7 +35,7 @@ ii. List
 
 ```js
 
-var ndb = require('./index');
+var ndb = require('nutrient-database');
 
 // Parameters:
 // 1. List Type
@@ -52,7 +52,7 @@ iii. Search
 
 ```js
 
-var ndb = require('./index');
+var ndb = require('nutrient-database');
 
 // Parameters:
 // 1. Search Query
